@@ -3,3 +3,4 @@
 .wrap{max-width:760px;margin:0 auto;padding:56px 20px}h1{font-size:44px;line-height:1.1;margin:0 0 12px}h1 span{color:var(--accent)}
 h2{margin-top:36px;font-size:22px}p,li{color:#d8d8d8}a{color:var(--accent)}.muted{color:var(--muted);font-size:14px}
 nav{display:flex;gap:18px;margin-top:28px}footer{margin-top:56px;border-top:1px solid #262626;padding-top:16px}
+.yt{display:inline-flex;align-items:center;gap:10px;font-weight:700;color:var(--fg);text-decoration:none;border:1px solid #333;border-radius:10px;padding:10px 14px}
